@@ -1,3 +1,5 @@
 {
- "projects": {}
+  "projects": {
+    "project-a": "git@github.com:brtsanjay/meta-subproject-a.git"
+  }
 }
